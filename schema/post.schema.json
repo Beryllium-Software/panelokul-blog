@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://panelokul.com/schema/blog-post.frontmatter.json",
+  "title": "PanelOkul blog yazısı ön bilgisi",
+  "description": "posts/<slug>/index.md dosyasındaki YAML ön bilgisinin şeması. Gövde, kapanış --- satırından sonra Markdown'dır ve bu şemaya girmez.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "title",
+    "slug",
+    "meta_description",
+    "target_keyword",
+    "category",
+    "date",
+    "date_modified",
+    "status"
+  ],
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 60
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+      "description": "posts/<slug>/ klasör adıyla birebir aynı olmalıdır."
+    },
+    "meta_description": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 155,
+      "description": "Uzunluk sınırı vardır. Dış yazılarda belirli bir CTA cümlesiyle bitme zorunluluğu yoktur."
+    },
+    "target_keyword": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "category": {
+      "enum": [
+        "okul-yonetimi",
+        "veli-iletisimi",
+        "finans-aidat",
+        "kvkk-guvenlik",
+        "urun-haberleri"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "author": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 80,
+      "description": "Boş bırakılırsa derleme PanelOkul Ekibi yazar."
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\+03:00$",
+      "description": "Europe/Istanbul duvar saati. Örnek: 2026-10-11T12:00:00+03:00"
+    },
+    "date_modified": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\+03:00$"
+    },
+    "canonical": {
+      "type": "string",
+      "pattern": "^https://.+/$",
+      "description": "Boşsa https://panelokul.com/blog/<slug>/ kullanılır. Adres / ile bitmelidir."
+    },
+    "status": {
+      "enum": ["draft", "published", "scheduled"]
+    },
+    "faq": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["q", "a"],
+        "properties": {
+          "q": { "type": "string", "minLength": 1 },
+          "a": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "cover": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Aynı klasördeki göreli dosya. Önerilen ölçü 1200x630. Örnek: cover.jpg"
+    },
+    "coverAlt": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 180,
+      "description": "Kapak görselinin alt metni. Boşsa başlık kullanılır."
+    }
+  }
+}
