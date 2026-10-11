@@ -107,23 +107,24 @@ Verilerin nerede ve nasıl saklandığı, iletimde şifreleme kullanılıp kulla
 
 ## Adayları nasıl puanlamalısınız? (Puanlama tablosu)
 
-Her kriteri okulunuz için önem derecesine göre 1–3 arasında ağırlıklandırın, her adaya 1–5 arasında puan verin. Ağırlık × puan toplamı en yüksek iki adayı kısa listeye alın; son kararı öğretmen denemesi ve yazılı teklifle verin.
+Her aday için her kritere 1–5 arasında puan verin, puanı o kriterin ağırlığıyla çarpın ve sonuçları toplayın. Aşağıdaki ağırlıklar öneridir; okulunuza göre 1–3 arasında değiştirebilir, listeyi yazdırıp demoda yanınızda tutabilirsiniz.
 
-| Kriter | Ağırlık (1–3) | Aday A (1–5) | Aday B (1–5) | Not |
-|---|---|---|---|---|
-| Öğretmen için günlük kayıt kolaylığı | | | | Öğretmen kendi denedi mi? |
-| Veli uygulaması (iOS/Android) | | | | |
-| Duyuru görüntülenme takibi ve hatırlatma | | | | |
-| Kontrollü/birebir iletişim | | | | |
-| Rol ve yetki yapısı | | | | |
-| Sağlık ve ilaç kayıtları | | | | |
-| Fotoğraf hedefleme ve taslak | | | | |
-| Teslim alma ve servis | | | | |
-| Aidat, dekont ve makbuz | | | | |
-| Kurulum ve veri aktarımı | | | | |
-| Veri güvenliği ve KVKK cevapları | | | | Yazılı mı? |
-| Fiyat şeffaflığı ve destek | | | | |
-| **Toplam** | | | | |
+| Kriter | Ağırlık | Not |
+|---|---|---|
+| Öğretmen kayıt kolaylığı | 3 | Öğretmen kendi denedi mi? |
+| Veli uygulaması | 3 | iOS ve Android |
+| Duyuru takibi | 2 | Hatırlatma var mı? |
+| Birebir iletişim | 2 | |
+| Rol ve yetki | 3 | |
+| Sağlık ve ilaç | 3 | Kim görüyor? |
+| Fotoğraf hedefleme | 2 | Taslak var mı? |
+| Teslim ve servis | 2 | Servis yoksa 1 |
+| Aidat ve makbuz | 2 | |
+| Kurulum ve aktarım | 2 | Excel ile mi? |
+| Veri güvenliği, KVKK | 3 | Yazılı mı? |
+| Fiyat ve destek | 2 | Ek kalemler |
+
+Toplamı en yüksek iki adayı kısa listeye alın; son kararı öğretmen denemesi ve yazılı teklifle verin.
 
 Tabloyu tek başınıza değil, en az bir öğretmen ve muhasebeden sorumlu kişiyle birlikte doldurmanızı öneririz.
 
