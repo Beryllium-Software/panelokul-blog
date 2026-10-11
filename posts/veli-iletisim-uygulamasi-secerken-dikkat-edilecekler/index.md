@@ -14,7 +14,7 @@ date: "2026-10-11T12:00:00+03:00"
 date_modified: "2026-10-11T12:00:00+03:00"
 canonical: "https://panelokul.com/blog/veli-iletisim-uygulamasi-secerken-dikkat-edilecekler/"
 status: published
-coverAlt: "Veli iletişim uygulaması seçerken dikkat edilecekler: mesaj grubu ile okul kanalının karşılaştırması"
+coverAlt: "Veli Uygulaması Seçerken 10 Nokta yazılı kapak; duyuru, mesaj ve fotoğraf etiketleri"
 cover: cover.jpg
 faq:
   - q: "Veli iletişim uygulaması WhatsApp grubunun yerini tamamen alabilir mi?"
@@ -135,5 +135,5 @@ Geçiş planını kendi okulunuzun hesabında denemek isterseniz: **Arayın, dem
 
 ## Kaynaklar
 
-- WhatsApp Yardım Merkezi, "How to check read receipts" (grup sohbetlerinde okundu bilgisi kapatılamaz; "Mesaj bilgisi" ekranı): https://faq.whatsapp.com/665923838265756/ (erişim: 11 Ekim 2026)
-- PanelOkul tanıtım sayfası: https://panelokul.com/tanitim/
+- WhatsApp Yardım Merkezi, "How to check read receipts" (grup sohbetlerinde okundu bilgisi kapatılamaz; "Mesaj bilgisi" ekranı): [WhatsApp Yardım Merkezi: okundu bilgisi (faq.whatsapp.com)](https://faq.whatsapp.com/665923838265756/) (erişim: 11 Ekim 2026)
+- PanelOkul tanıtım sayfası: [PanelOkul tanıtım sayfası (panelokul.com)](https://panelokul.com/tanitim/)
