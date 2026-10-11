@@ -154,7 +154,14 @@ PanelOkul, kreş ve anaokulları için geliştirilmiş bir okul yönetimi ve vel
 
 Bir [kreş ve anaokulu yönetim programı](/) olarak PanelOkul'un yukarıdaki kriterlere cevabı kısaca şöyle: hesapları okul açar ve herkese açık kayıt yoktur; [duyurularda kimin gördüğü izlenir](/tanitim/#duyuru) ve görmeyenlere hatırlatma gönderilebilir; [yazışmalar grup yerine birebirdir](/tanitim/#mesaj); kurucu, müdür, şube müdürü, öğretmen, asistan, muhasebe, sağlık personeli, psikolog, veli ve şoför gibi roller ayrı yetkilerle çalışır. Duyuru, albüm ve etkinlik taslak olarak bekletilebilir; duyurular okul, şube, sınıf veya belirli öğrenciler hedeflenerek yayınlanır. Çocuk listeleri [Excel ile toplu aktarılabilir](/tanitim/#toplu-yukleme); [teslim alma](/tanitim/#teslim-alma), [servis](/tanitim/#servis) ve [aidat](/tanitim/#aidat) modülleri de aynı platformdadır. Fiyat sitede yer almaz; okulun öğrenci sayısına göre konuşulur.
 
-Kendi kriter tablonuzu doldurduktan sonra PanelOkul'u aynı sorularla denemek isterseniz: **Arayın, demo hesabınızı birlikte açalım:** [Burcu Öztürk +90 535 041 67 96](tel:+905350416796) · [A. İstemihan Öztürk +90 537 686 23 24](tel:+905376862324) · [Formu doldurun, biz arayalım](/contact-us/) · [PanelOkul'u tanıyın](/tanitim/)
+Kendi kriter tablonuzu doldurduktan sonra PanelOkul'u aynı sorularla denemek isterseniz:
+
+**Arayın, demo hesabınızı birlikte açalım:**
+
+- [Burcu Öztürk +90 535 041 67 96](tel:+905350416796)
+- [A. İstemihan Öztürk +90 537 686 23 24](tel:+905376862324)
+- [Formu doldurun, biz arayalım](/contact-us/)
+- [PanelOkul'u tanıyın](/tanitim/)
 
 ## Kaynaklar
 
