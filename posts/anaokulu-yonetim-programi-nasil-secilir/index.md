@@ -13,7 +13,7 @@ date: "2026-10-11T12:00:00+03:00"
 date_modified: "2026-10-11T12:00:00+03:00"
 canonical: "https://panelokul.com/blog/anaokulu-yonetim-programi-nasil-secilir/"
 status: published
-coverAlt: "Anaokulu yönetim programı nasıl seçilir: 12 kriterlik puanlama tablosu"
+coverAlt: "Anaokulu Programı Seçimi: 12 Kriter yazılı kapak; kriter, demo ve puanlama etiketleri"
 cover: cover.jpg
 faq:
   - q: "Anaokulu yönetim programı ile veli iletişim uygulaması aynı şey mi?"
@@ -157,5 +157,5 @@ Kendi kriter tablonuzu doldurduktan sonra PanelOkul'u aynı sorularla denemek is
 
 ## Kaynaklar
 
-- 6698 sayılı Kişisel Verilerin Korunması Kanunu, md. 6 (Türkçe resmî metin, Mevzuat Bilgi Sistemi): https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5
-- MEB, 2026-2027 eğitim öğretim yılı takvimi (yarıyıl tatili 25 Ocak–5 Şubat 2027): https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr
+- 6698 sayılı Kişisel Verilerin Korunması Kanunu, md. 6 (Türkçe resmî metin, Mevzuat Bilgi Sistemi): [6698 sayılı KVKK (mevzuat.gov.tr)](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5)
+- MEB, 2026-2027 eğitim öğretim yılı takvimi (yarıyıl tatili 25 Ocak–5 Şubat 2027): [MEB 2026-2027 çalışma takvimi (meb.gov.tr)](https://www.meb.gov.tr/2026-2027-egitim-ogretim-yili-takvimi-aciklandi/haber/41057/tr)
