@@ -142,8 +142,7 @@ Rollerin ve paylaşım ayarlarının PanelOkul'da nasıl çalıştığını kend
 
 **Arayın, demo hesabınızı birlikte açalım:**
 
-- [Burcu Öztürk +90 535 041 67 96](tel:+905350416796)
-- [A. İstemihan Öztürk +90 537 686 23 24](tel:+905376862324)
+- [+90 (537) 686 23 24](tel:+905376862324)
 - [Formu doldurun, biz arayalım](/contact-us/)
 - [PanelOkul'u tanıyın](/tanitim/)
 
