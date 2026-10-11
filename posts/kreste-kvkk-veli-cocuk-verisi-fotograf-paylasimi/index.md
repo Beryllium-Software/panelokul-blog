@@ -138,7 +138,14 @@ PanelOkul, kreş ve anaokulları için geliştirilmiş bir okul yönetimi ve vel
 
 KVKK yükümlülükleri okulundur ve hiçbir yazılım bunları tek başına "çözmez"; ancak doğru araç, iyi uygulamayı kolaylaştırır. PanelOkul'da hesapları okul açar ve herkese açık kayıt yoktur; her okulun verisi kendi içinde kalır, şube müdürü yalnızca kendi şubesini görür. Roller ayrıdır: örneğin kurucu rolü sağlık kaydı ve ilaç planı yazamaz, psikolog notunun metnini müdür ve notun paylaşıldığı kişiler görür, diğer roller görmez, asistan öğretmen çocuğun iletişim bilgilerini düzenleyemez. [Albüm](/tanitim/#album) ve duyurular taslak olarak bekletilebilir; duyurular sınıfa veya belirli öğrencilere hedeflenerek yayınlanır. Veriler HTTPS ile iletilir, reklam veya veri satışı yapılmaz; hesap silme talepleri [hesap ve veri silme sayfasında](/hesap-silme/) belirtilen süreçle değerlendirilir. PanelOkul'un kendi veri işleme açıklamaları için [KVKK aydınlatma metni](/kvkk/) ve [gizlilik politikası](/gizlilik/) sayfalarına bakabilirsiniz.
 
-Rollerin ve paylaşım ayarlarının PanelOkul'da nasıl çalıştığını kendi demo hesabınızda görmek isterseniz: **Arayın, demo hesabınızı birlikte açalım:** [Burcu Öztürk +90 535 041 67 96](tel:+905350416796) · [A. İstemihan Öztürk +90 537 686 23 24](tel:+905376862324) · [Formu doldurun, biz arayalım](/contact-us/) · [PanelOkul'u tanıyın](/tanitim/)
+Rollerin ve paylaşım ayarlarının PanelOkul'da nasıl çalıştığını kendi demo hesabınızda görmek isterseniz:
+
+**Arayın, demo hesabınızı birlikte açalım:**
+
+- [Burcu Öztürk +90 535 041 67 96](tel:+905350416796)
+- [A. İstemihan Öztürk +90 537 686 23 24](tel:+905376862324)
+- [Formu doldurun, biz arayalım](/contact-us/)
+- [PanelOkul'u tanıyın](/tanitim/)
 
 > **Hatırlatma:** Bu yazı genel bilgilendirme amaçlıdır, hukuki danışmanlık değildir. Okulunuza özel durumlar için bir hukuk danışmanına başvurun.
 
