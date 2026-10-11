@@ -90,11 +90,11 @@ Küçük çocuklar adına bu bilgilendirme ve onaylar, uygulamada veli veya yasa
 
 Fotoğraf ve videolar, kişiyi tanımlanabilir kıldığı için kişisel veridir. Kreşlerde fotoğrafın üç farklı kullanımı vardır ve her biri ayrı değerlendirilmelidir:
 
-| Kullanım | Örnek | Dikkat edilmesi gerekenler |
+| Kullanım | Örnek | Dikkat |
 |---|---|---|
-| Veliyi bilgilendirme | Günlük etkinlik fotoğrafının sınıf velileriyle paylaşılması | Aydınlatma metninde amaç olarak yer almalı; fotoğraflar yalnızca ilgili velilere açılmalı |
-| Okul içi kayıt | Gelişim dosyası, etkinlik arşivi | Erişim ilgili personelle sınırlı olmalı; saklama süresi belirlenmeli |
-| Tanıtım ve sosyal medya | Okulun Instagram hesabı, web sitesi, broşür | Bilgilendirme amacından farklı bir amaçtır; ayrıca aydınlatma yapılması ve velinin ayrı açık rızasının alınması önerilir |
+| Veliyi bilgilendirme | Günlük etkinlik fotoğrafı | Amaç aydınlatmada yazılı; yalnız ilgili veliler |
+| Okul içi kayıt | Gelişim dosyası, arşiv | Erişim sınırlı; saklama süresi belli |
+| Tanıtım, sosyal medya | Instagram, web sitesi, broşür | Farklı amaç: ayrı aydınlatma, ayrı açık rıza önerilir |
 
 Pratik kurallar:
 
