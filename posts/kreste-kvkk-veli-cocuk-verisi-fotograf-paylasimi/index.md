@@ -14,7 +14,7 @@ date: "2026-10-11T12:00:00+03:00"
 date_modified: "2026-10-11T12:00:00+03:00"
 canonical: "https://panelokul.com/blog/kreste-kvkk-veli-cocuk-verisi-fotograf-paylasimi/"
 status: published
-coverAlt: "Kreşte KVKK kontrol listesi: aydınlatma metni, açık rıza ve fotoğraf paylaşımı"
+coverAlt: "Kreşte KVKK ve Çocuk Fotoğrafı yazılı kapak; aydınlatma, açık rıza ve fotoğraf etiketleri"
 cover: cover.jpg
 faq:
   - q: "Kreşler KVKK'ya uymak zorunda mı?"
@@ -146,11 +146,11 @@ Rollerin ve paylaşım ayarlarının PanelOkul'da nasıl çalıştığını kend
 
 Erişim tarihi: 11 Ekim 2026.
 
-- 6698 sayılı Kişisel Verilerin Korunması Kanunu (RG: 7.4.2016, Sayı: 29677), md. 3, 5, 6, 7, 10, 11, 12, 13, 16; Türkçe resmî metin (Mevzuat Bilgi Sistemi): https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5
-- Aynı Kanunun KVKK resmî sitesindeki İngilizce çevirisi (anlam farkında Türkçe metin esastır): https://www.kvkk.gov.tr/Icerik/6649/Personal-Data-Protection-Law
-- Kişisel Verileri Koruma Kurulu, 24.01.2019 tarihli ve 2019/10 sayılı karar (veri ihlali bildirimi, 72 saat): https://www.kvkk.gov.tr/Icerik/5362/Veri-Ihlali-Bildirimi
-- Veri Sorumluları Sicil Bilgi Sistemi (VERBİS): https://verbis.kvkk.gov.tr/
-- Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ (RG: 10.3.2018, Sayı: 30356), md. 4–5: https://www.kvkk.gov.tr/Icerik/4132/aydinlatma-yukumlulugunun-yerine-getirilmesinde-uyulacak-usul-ve-esaslar-hakkinda-teblig
-- KVKK, "Açık Rıza" rehberi: https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/e3c6aa10-9de4-46f8-9b51-71bcf07c09b5.pdf
-- KVKK, "Kişisel Verilerin İşlenme Şartları" rehberi: https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/9feefe58-9b0f-49c9-a0c7-2b2eb8c012bb.pdf
-- PanelOkul gizlilik ve tanıtım sayfaları: https://panelokul.com/gizlilik/, https://panelokul.com/hesap-silme/, https://panelokul.com/tanitim/
+- 6698 sayılı Kişisel Verilerin Korunması Kanunu (RG: 7.4.2016, Sayı: 29677), md. 3, 5, 6, 7, 10, 11, 12, 13, 16; Türkçe resmî metin (Mevzuat Bilgi Sistemi): [6698 sayılı KVKK (mevzuat.gov.tr)](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6698&MevzuatTur=1&MevzuatTertip=5)
+- Aynı Kanunun KVKK resmî sitesindeki İngilizce çevirisi (anlam farkında Türkçe metin esastır): [6698 sayılı Kanun, İngilizce çeviri (kvkk.gov.tr)](https://www.kvkk.gov.tr/Icerik/6649/Personal-Data-Protection-Law)
+- Kişisel Verileri Koruma Kurulu, 24.01.2019 tarihli ve 2019/10 sayılı karar (veri ihlali bildirimi, 72 saat): [Kurul'un 2019/10 sayılı veri ihlali kararı (kvkk.gov.tr)](https://www.kvkk.gov.tr/Icerik/5362/Veri-Ihlali-Bildirimi)
+- Veri Sorumluları Sicil Bilgi Sistemi (VERBİS): [VERBİS (verbis.kvkk.gov.tr)](https://verbis.kvkk.gov.tr/)
+- Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ (RG: 10.3.2018, Sayı: 30356), md. 4–5: [Aydınlatma Tebliği (kvkk.gov.tr)](https://www.kvkk.gov.tr/Icerik/4132/aydinlatma-yukumlulugunun-yerine-getirilmesinde-uyulacak-usul-ve-esaslar-hakkinda-teblig)
+- KVKK, "Açık Rıza" rehberi: [Açık Rıza rehberi, PDF (kvkk.gov.tr)](https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/e3c6aa10-9de4-46f8-9b51-71bcf07c09b5.pdf)
+- KVKK, "Kişisel Verilerin İşlenme Şartları" rehberi: [İşlenme Şartları rehberi, PDF (kvkk.gov.tr)](https://www.kvkk.gov.tr/SharedFolderServer/CMSFiles/9feefe58-9b0f-49c9-a0c7-2b2eb8c012bb.pdf)
+- PanelOkul gizlilik ve tanıtım sayfaları: [Gizlilik politikası (panelokul.com)](https://panelokul.com/gizlilik/), [Hesap ve veri silme (panelokul.com)](https://panelokul.com/hesap-silme/), [PanelOkul tanıtım sayfası (panelokul.com)](https://panelokul.com/tanitim/)
