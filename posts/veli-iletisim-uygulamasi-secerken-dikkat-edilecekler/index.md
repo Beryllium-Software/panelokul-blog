@@ -41,15 +41,17 @@ Birçok anaokulu ve kreşte veli iletişimi, sınıf başına açılmış WhatsA
 
 Veli iletişim uygulaması (anaokulu veli bilgilendirme sistemi olarak da anılır), okulun duyurularını, günlük bakım kayıtlarını, fotoğraflarını ve yazışmalarını veliye okulun kontrolündeki bir kanaldan ulaştıran mobil uygulamadır. Temel fark, kanalın sahibinin okul olmasıdır: kimin katılacağına, kimin neyi göreceğine ve kayıtların nerede tutulacağına okul karar verir. Okulun iç işlerini de kapsayan bir program arıyorsanız [anaokulu yönetim programı nasıl seçilir](/blog/anaokulu-yonetim-programi-nasil-secilir/) rehberimize bakın.
 
-| Konu | Sınıf WhatsApp grubu | Okul odaklı veli iletişim uygulaması |
+| Konu | WhatsApp grubu | Veli uygulaması |
 |---|---|---|
-| Kimler katılır? | Yönetici numarayla ekler ya da davet linki paylaşır; link kimin elindeyse katılabilir (yönetici onayı ayarı açılabilir) | Hesabı okul açar; veli okulun tanımladığı telefon numarasıyla girer |
-| Duyuru takibi | Grupta mesajı kimin okuduğu "Bilgi" ekranından görülebilir; ancak duyurular sohbet akışında diğer mesajlar arasında kalır | Duyurular ayrı listede durur; uygulamaya göre görmeyenlere hatırlatma gönderilebilir |
-| Yazışma | Varsayılan olarak tüm üyeler yazabilir (yönetici yalnızca yöneticilerin yazmasını seçebilir); tartışmalar tüm gruba açık olur | Okul ile veli arasında birebir ya da kontrollü |
-| Fotoğraflar | Gruptaki tüm üyeler tüm fotoğrafları görür | Sınıfa veya belirli çocuklara hedeflenebilir |
-| Telefon numaraları | Grup üyeleri birbirinin telefon numarasını genellikle görebilir; öğretmenin numarası velilere açık olur | Uygulama içinden yazışılır; öğretmenin numarası gerekmez |
-| Kayıtlar | Yazışmalar katılımcıların kendi cihazlarında ve hesaplarında durur; okulun merkezi bir kaydı olmaz | Okulun sisteminde, yetkiye göre erişilebilir |
-| Günlük bakım bilgisi | Elle yazılır veya fotoğrafla gönderilir | Yoklama, öğün, uyku gibi kayıtlar yapılandırılmış biçimde paylaşılır |
+| Kimler katılır? | Eklenenler veya davet linki olanlar | Okulun açtığı hesaplar |
+| Duyuru takibi | Okunma "Bilgi"de görünür; duyuru sohbette kalır | Ayrı liste, hatırlatma |
+| Yazışma | Varsayılan: herkes gruba yazar | Birebir veya kontrollü |
+| Fotoğraflar | Tüm üyeler hepsini görür | Sınıfa veya çocuğa hedeflenir |
+| Telefon numarası | Üyeler genellikle birbirininkini görür | Öğretmenin numarası gerekmez |
+| Kayıtlar | Katılımcıların cihazlarında | Okulun sisteminde, yetkiye göre |
+| Günlük bakım | Elle yazı veya fotoğraf | Yoklama, öğün, uyku kaydı |
+
+Not: WhatsApp'ta grup yöneticisi katılımı onaya bağlayabilir ve yazmayı yalnızca yöneticilere açabilir. Veli uygulamalarında da hatırlatma gibi özellikler uygulamaya göre değişir.
 
 ## Veli iletişim uygulaması seçerken nelere dikkat edilmeli?
 
