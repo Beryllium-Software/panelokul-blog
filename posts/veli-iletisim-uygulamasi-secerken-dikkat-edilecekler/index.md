@@ -133,7 +133,14 @@ PanelOkul, kreş ve anaokulları için geliştirilmiş bir okul yönetimi ve vel
 
 Bir [veli iletişim uygulaması](/tanitim/) olarak PanelOkul'da hesapları okul açar ve uygulamada herkese açık kayıt yoktur. [Duyurularda kimin gördüğü listelenir](/tanitim/#duyuru) ve görmeyenlere hatırlatma gönderilebilir. [Yazışmalar](/tanitim/#mesaj) veli ile öğretmen veya müdür arasında birebirdir; grup sohbeti yoktur, öğretmenin kişisel numarası gerekmez. Okul yönetimi, öğretmenlerin velilerle yazışmalarını görebilir; böylece iletişim kurum adına kayıt altında kalır. Duyuru ve [albümler](/tanitim/#album) taslakta bekletilip okul, şube, sınıf ya da belirli öğrenciler hedeflenerek yayınlanır. Veli, bildirim tercihlerini tür bazında açıp kapatabilir. WhatsApp grubunu ilk gün kapatmak gerekmez; önerdiğimiz başlangıç önce duyuru, günlük akış ve teslimdir.
 
-Geçiş planını kendi okulunuzun hesabında denemek isterseniz: **Arayın, demo hesabınızı birlikte açalım:** [Burcu Öztürk +90 535 041 67 96](tel:+905350416796) · [A. İstemihan Öztürk +90 537 686 23 24](tel:+905376862324) · [Formu doldurun, biz arayalım](/contact-us/) · [PanelOkul'u tanıyın](/tanitim/)
+Geçiş planını kendi okulunuzun hesabında denemek isterseniz:
+
+**Arayın, demo hesabınızı birlikte açalım:**
+
+- [Burcu Öztürk +90 535 041 67 96](tel:+905350416796)
+- [A. İstemihan Öztürk +90 537 686 23 24](tel:+905376862324)
+- [Formu doldurun, biz arayalım](/contact-us/)
+- [PanelOkul'u tanıyın](/tanitim/)
 
 ## Kaynaklar
 
