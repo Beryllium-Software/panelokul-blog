@@ -11,7 +11,7 @@ tags:
   - "Geçiş"
 author: "PanelOkul Ekibi"
 date: "2026-10-16T05:45:00+03:00"
-date_modified: "2026-10-16T05:45:00+03:00"
+date_modified: "2026-10-18T08:31:33+03:00"
 canonical: "https://panelokul.com/blog/whatsapp-grubundan-gecis-duyurusu/"
 status: published
 coverAlt: "WhatsApp Grubundan Geçiş: 7 Hazır Metin yazılı koyu yeşil kapak; duyuru, hatırlatma ve karşılama etiketleri"
@@ -136,7 +136,7 @@ Mesai dışında gelen mesajlar ve öğretmenin özel numarası gibi konular ge�
 
 PanelOkul, kreş ve anaokulları için geliştirilmiş bir okul yönetimi ve veli iletişim platformudur. Okul yönetimi ve öğretmenler web panelini ve mobil uygulamayı kullanır; veliler iOS ve Android uygulamasından duyuruları, çocuklarının yemek, uyku, sağlık ve yoklama bilgilerini, teslim alma ve aidat işlemlerini takip eder. Hesaplar okul tarafından telefon numarasıyla açılır.
 
-PanelOkul'da mağazadan kayıt ol yoktur; veli, okulun tanımladığı telefon numarasıyla giriş yapar. İlk şifre telefon numarasının son dört hanesidir ve ilk girişte uygulama şifreyi değiştirmeyi sorar. [Duyurularda](/tanitim/#duyuru) kimin gördüğü ve görmediği listelenir; "Görüntülemeyenlere hatırlat" ile yalnızca görmeyen velilere bildirim gider, yani 4. metin tam bu adımda kullanılır. [Mesajlar](/tanitim/#mesaj) veli ile öğretmen veya müdür arasında bire birdir, grup sohbeti yoktur. [Albümler](/tanitim/#album) taslakta bekletilebilir ve yayınlanınca seçilen sınıfın akışına düşer. PanelOkul'da da WhatsApp'ı ilk gün kapatmak gerekmez; çoğu okul önce duyuru, akış ve teslimle başlar.
+PanelOkul'da mağazadan kayıt ol yoktur; veli, okulun tanımladığı telefon numarasıyla giriş yapar. İlk şifre size okul tarafından iletilir; ilk girişte değiştirmeniz istenir. [Duyurularda](/tanitim/#duyuru) kimin gördüğü ve görmediği listelenir; "Görüntülemeyenlere hatırlat" ile yalnızca görmeyen velilere bildirim gider, yani 4. metin tam bu adımda kullanılır. [Mesajlar](/tanitim/#mesaj) veli ile öğretmen veya müdür arasında bire birdir, grup sohbeti yoktur. [Albümler](/tanitim/#album) taslakta bekletilebilir ve yayınlanınca seçilen sınıfın akışına düşer. PanelOkul'da da WhatsApp'ı ilk gün kapatmak gerekmez; çoğu okul önce duyuru, akış ve teslimle başlar.
 
 Geçişi kendi okulunuzun hesabında adım adım denemek isterseniz:
 
